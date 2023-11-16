@@ -1,2 +1,1 @@
-# contacter_EduMAp
-Les informations de contact pour DEVOWFS201, les créateurs d'EduMap .
+https://abde-belaid.github.io/contacter_EduMAp/
